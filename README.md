@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mahmoud Atef Mahmoud</h1>
-<h3 align="center">A passionate frontend developer from Egypt</h3>
+<h3 align="center">A passionate Mobild Applications developer from Egypt</h3>
 
-- 🔭 I’m currently working on **cloudsoft5**
+- 🔭 I’m currently working on **NamaaIT**
 
 - 🌱 I’m currently learning **Flutter, Dart**
 
